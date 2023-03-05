@@ -8,6 +8,7 @@
 // @namespace    https://sekibetu.com
 // @author       SekiBetu
 // @license      MIT
+/// @match       *://*.blue-plus.net/*
 // @match        *://*.white-plus.net/*
 // @match        *://*.level-plus.net/*
 // @match        *://*.spring-plus.net/*
