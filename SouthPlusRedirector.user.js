@@ -20,8 +20,6 @@
 // @match        *://north-plus.net/*
 // @match        *://*.snow-plus.net/*
 // @match        *://snow-plus.net/*
-// @match        *://*.soul-plus.net/*
-// @match        *://soul-plus.net/*
 // @match        *://*.south-plus.net/*
 // @match        *://south-plus.net/*
 // @match        *://*.south-plus.org/*
