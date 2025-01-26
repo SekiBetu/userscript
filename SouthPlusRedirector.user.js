@@ -4,7 +4,7 @@
 // @homepageURL  https://github.com/SekiBetu/userscript
 // @updateURL    https://github.com/SekiBetu/userscript/raw/main/SouthPlusRedirector.user.js
 // @downloadURL  https://github.com/SekiBetu/userscript/raw/main/SouthPlusRedirector.user.js
-// @version      1.1
+// @version      1.2
 // @namespace    https://sekibetu.com
 // @author       SekiBetu
 // @license      MIT
