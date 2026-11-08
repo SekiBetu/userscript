@@ -7,8 +7,8 @@
 // @license      MIT
 // @homepageURL  https://github.com/SekiBetu/userscript
 // @supportURL   https://github.com/SekiBetu/userscript/issues
-// @downloadURL  https://github.com/SekiBetu/userscript/raw/main/discord-wot-auto-bypass.user.js
-// @updateURL    https://github.com/SekiBetu/userscript/raw/main/discord-wot-auto-bypass.user.js
+// @downloadURL  https://github.com/SekiBetu/userscript/raw/main/Discord-WOT-Auto-Bypass.user.js
+// @updateURL    https://github.com/SekiBetu/userscript/raw/main/Discord-WOT-Auto-Bypass.user.js
 // @match        *://discord.com/*
 // @match        *://*.discord.com/*
 // @match        *://discordapp.com/*
